@@ -1,0 +1,10 @@
+Use your gmail account username and password.
+
+If you have enabled 2-step verification, open email.h and in the send_Mail_Gmail_cURL_Engine() function, change
+parameters in the curl_easy_opt function and pass 1 as the argument for verbose mode...
+
+You will get a message from Google server asking you to visit a page.
+
+Vist the said page and follow instructions to send mail from this program.
+
+Set your username and password in the file "Data/username(or)password_file".
