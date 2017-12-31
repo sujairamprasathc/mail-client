@@ -45,7 +45,6 @@ using namespace std;
 
 //-----------------------------------------------------------------------------------------------//
 
-//#include "graphics_engine.h"
 #ifndef CSRP_MISC_TOOLS
     #include "miscellaneous_tools.h"
 #endif
